@@ -74,12 +74,12 @@ define(['jquery', 'underscore'], function ($, _) {
     data["reset"] = { "ko-KR": "초기화", "ja-JP": "", "zh-TW": "重置本次選擇", "en-US": "Reset current selected", "zh-CN": "重置本次选择" };
     data["save"] = { "ko-KR": "저장", "ja-JP": "", "zh-TW": "保存", "en-US": "Save", "zh-CN": "保存" };
     //dialog
-    data["runenotexist"] = { "ko-KR": "", "ja-JP": "", "zh-TW": "該符文不存在，請嘗試啟用進階符文", "en-US": "This rune is not exist, try enable Evolution Rune first", "zh-CN": "该符文不存在，请尝试启用进阶符文" };
-    data["generating"] = { "ko-KR": "", "ja-JP": "", "zh-TW": "生成中……", "en-US": "Generating...", "zh-CN": "生成中……" };
-    data["generateerror"] = { "ko-KR": "", "ja-JP": "", "zh-TW": "生成圖片異常", "en-US": "Generate Error", "zh-CN": "生成图片异常" };
-    data["confirmreset"] = { "ko-KR": "", "ja-JP": "", "zh-TW": "是否重置本次選擇？", "en-US": "Confirm reset current selected?", "zh-CN": "是否重置本次选择？" };
+    data["runenotexist"] = { "ko-KR": "해당 룬을 찾을 수 없습니다. 룬페이지 확장을 활성화 해보시기 바랍니다.", "ja-JP": "", "zh-TW": "該符文不存在，請嘗試啟用進階符文", "en-US": "This rune is not exist, try enable Evolution Rune first", "zh-CN": "该符文不存在，请尝试启用进阶符文" };
+    data["generating"] = { "ko-KR": "생성중...", "ja-JP": "", "zh-TW": "生成中……", "en-US": "Generating...", "zh-CN": "生成中……" };
+    data["generateerror"] = { "ko-KR": "생성 에러", "ja-JP": "", "zh-TW": "生成圖片異常", "en-US": "Generate Error", "zh-CN": "生成图片异常" };
+    data["confirmreset"] = { "ko-KR": "현재 선택된 룬 정보를 초기화하시겠습니까?", "ja-JP": "", "zh-TW": "是否重置本次選擇？", "en-US": "Confirm reset current selected?", "zh-CN": "是否重置本次选择？" };
     data["nopath"] = { "ko-KR": "경로 없음!", "ja-JP": "", "zh-TW": "無路徑！", "en-US": "No path!", "zh-CN": "无路径！" };
-    data["confirmuncheck"] = { "ko-KR": "", "ja-JP": "", "zh-TW": "是否取消選中該符文？", "en-US": "Confirm uncheck this rune?", "zh-CN": "是否取消选中该符文？" };
+    data["confirmuncheck"] = { "ko-KR": "해당 룬을 체크해제 하시겠습니까?", "ja-JP": "", "zh-TW": "是否取消選中該符文？", "en-US": "Confirm uncheck this rune?", "zh-CN": "是否取消选中该符文？" };
 
     var getText = function (key) {
         if (!data[key]) {
