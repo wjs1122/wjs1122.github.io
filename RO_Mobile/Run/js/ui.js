@@ -68,8 +68,8 @@ define(['jquery', 'underscore'], function ($, _) {
     data["weight"] = { "ko-KR": "가중치", "ja-JP": "", "zh-TW": "權重", "en-US": "Weights", "zh-CN": "权重" };
     data["contribution"] = { "ko-KR": "공헌도", "ja-JP": "", "zh-TW": "貢獻", "en-US": "Contribution", "zh-CN": "贡献" };
     data["goldmedal"] = { "ko-KR": "금훈장", "ja-JP": "", "zh-TW": "金質勳章", "en-US": "Golden Badge", "zh-CN": "金质勋章" };
-    data["selected"] = { "ko-KR": "선택", "ja-JP": "", "zh-TW": "已選：", "en-US": "Selected:", "zh-CN": "已选：" };
-    data["currentselected"] = { "ko-KR": "현재선택", "ja-JP": "", "zh-TW": "本次：", "en-US": "Current:", "zh-CN": "本次：" };
+    data["selected"] = { "ko-KR": "선택 : ", "ja-JP": "", "zh-TW": "已選：", "en-US": "Selected:", "zh-CN": "已选：" };
+    data["currentselected"] = { "ko-KR": "현재선택 : ", "ja-JP": "", "zh-TW": "本次：", "en-US": "Current:", "zh-CN": "本次：" };
     data["saveimage"] = { "ko-KR": "룬 페이지 이미지 저장", "ja-JP": "", "zh-TW": "生成全符文圖片", "en-US": "Generate all rune image", "zh-CN": "生成全符文图片" };
     data["reset"] = { "ko-KR": "초기화", "ja-JP": "", "zh-TW": "重置本次選擇", "en-US": "Reset current selected", "zh-CN": "重置本次选择" };
     data["save"] = { "ko-KR": "저장", "ja-JP": "", "zh-TW": "保存", "en-US": "Save", "zh-CN": "保存" };
