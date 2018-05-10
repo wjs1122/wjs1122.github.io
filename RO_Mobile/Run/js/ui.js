@@ -45,7 +45,7 @@ define(['jquery', 'underscore'], function ($, _) {
     data["typeBranch-61"] = { "ko-KR": "블랙스미스", "ja-JP": "", "zh-TW": "鐵匠", "en-US": "Blacksmith", "zh-CN": "铁匠" };
     data["typeBranch-62"] = { "ko-KR": "알케미스트", "ja-JP": "", "zh-TW": "鍊金術士", "en-US": "Alchemist", "zh-CN": "炼金术士" };
 
-    data["search"] = { "ja-JP": "검색", "ja-JP": "検索", "zh-TW": "搜尋", "en-US": "Search", "zh-CN": "查询" };
+    data["search"] = { "ko-KR": "검색", "ja-JP": "検索", "zh-TW": "搜尋", "en-US": "Search", "zh-CN": "查询" };
     data["clear"] = { "ko-KR": "지우기", "ja-JP": "", "zh-TW": "清空", "en-US": "Clear", "zh-CN": "清空" };
 
     data["currentversion"] = { "ko-KR": "현재 버전", "ja-JP": "", "zh-TW": "當前版本：", "en-US": "Current Ver.:", "zh-CN": "当前版本：" };
