@@ -1,16 +1,16 @@
 [{
 		"Id": 11001,
-		"RuneName": "狂击-强效",
+		"RuneName": "배쉬-强效",
 		"Runetip": 1000,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 11002,
-		"RuneName": "剑术修炼-强效",
+		"RuneName": "검술수련-强效",
 		"Runetip": 1001,
 		"SkillTipParm": [60.0]
 	}, {
 		"Id": 11003,
-		"RuneName": "挑衅-警惕",
+		"RuneName": "프로보크-警惕",
 		"Runetip": 1002,
 		"SkillTipParm": [5.0]
 	}, {
@@ -35,7 +35,7 @@
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 11021,
-		"RuneName": "骑乘攻击-多效",
+		"RuneName": "브랜디쉬 스피어-多效",
 		"Runetip": 1003,
 		"SkillTipParm": [3.0]
 	}, {
@@ -50,7 +50,7 @@
 		"SkillTipParm": [1.0]
 	}, {
 		"Id": 12002,
-		"RuneName": "高等剑术修炼",
+		"RuneName": "상위 검술수련",
 		"Runetip": 1006,
 		"SkillTipParm": [1.0]
 	}, {
@@ -70,7 +70,7 @@
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 12009,
-		"RuneName": "剑速增加-精通",
+		"RuneName": "소드퀴큰-精通",
 		"Runetip": 1008,
 		"SkillTipParm": [10.0]
 	}, {
@@ -80,22 +80,22 @@
 		"SkillTipParm": [1.0]
 	}, {
 		"Id": 12013,
-		"RuneName": "灵气剑-强效",
+		"RuneName": "오라블레이드-强效",
 		"Runetip": 1010,
 		"SkillTipParm": [5.0]
 	}, {
 		"Id": 12014,
-		"RuneName": "骑乘训练-多效Ⅰ",
+		"RuneName": "탑승훈련-多效Ⅰ",
 		"Runetip": 1011,
 		"SkillTipParm": [1.0]
 	}, {
 		"Id": 12024,
-		"RuneName": "伤害增压-精通",
+		"RuneName": "크러쉬 블레이드-精通",
 		"Runetip": 1012,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 12027,
-		"RuneName": "钢铁之心-精通",
+		"RuneName": "강철의 심장-精通",
 		"Runetip": 1013,
 		"SkillTipParm": [10.0]
 	}, {
@@ -110,7 +110,7 @@
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 12032,
-		"RuneName": "连刺攻击-射程",
+		"RuneName": "피어스-射程",
 		"Runetip": 1015,
 		"SkillTipParm": [0.5]
 	}, {
@@ -120,22 +120,22 @@
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 12040,
-		"RuneName": "反击-魔法",
+		"RuneName": "오토카운터-魔法",
 		"Runetip": 1017,
 		"SkillTipParm": [15.0]
 	}, {
 		"Id": 12041,
-		"RuneName": "反击-远程物理",
+		"RuneName": "오토카운터-远程物理",
 		"Runetip": 1018,
 		"SkillTipParm": [8.0]
 	}, {
 		"Id": 12050,
-		"RuneName": "反击-反伤盾",
+		"RuneName": "오토카운터-反伤盾",
 		"Runetip": 1019,
 		"SkillTipParm": [5.0]
 	}, {
 		"Id": 12060,
-		"RuneName": "伤害增压-致残",
+		"RuneName": "크러쉬 블레이드-致残",
 		"Runetip": 1020,
 		"SkillTipParm": [15.0]
 	}, {
@@ -155,17 +155,17 @@
 		"SkillTipParm": [1.0, 50.0]
 	}, {
 		"Id": 12080,
-		"RuneName": "集中攻击-警惕",
+		"RuneName": "컨센트레이션-警惕",
 		"Runetip": 1022,
 		"SkillTipParm": [7.0]
 	}, {
 		"Id": 12090,
-		"RuneName": "挑衅-范围",
+		"RuneName": "프로보크-范围",
 		"Runetip": 1023,
 		"SkillTipParm": [0.5]
 	}, {
 		"Id": 12100,
-		"RuneName": "巧打-强效",
+		"RuneName": "조인트 비트-强效",
 		"Runetip": 1024,
 		"SkillTipParm": [15.0]
 	}, {
@@ -190,7 +190,7 @@
 		"SkillTipParm": [15.0, 20.0]
 	}, {
 		"Id": 12130,
-		"RuneName": "狂怒之枪-警惕",
+		"RuneName": "버서크-警惕",
 		"Runetip": 1027,
 		"SkillTipParm": [12.0]
 	}, {
@@ -200,7 +200,7 @@
 		"SkillTipParm": [2.0]
 	}, {
 		"Id": 12140,
-		"RuneName": "狂怒之枪-冷却",
+		"RuneName": "버서크-冷却",
 		"Runetip": 1029,
 		"SkillTipParm": [7.0]
 	}, {
@@ -230,17 +230,17 @@
 		"SkillTipParm": null
 	}, {
 		"Id": 12180,
-		"RuneName": "霸体-无限",
+		"RuneName": "인듀어-无限",
 		"Runetip": 1033,
 		"SkillTipParm": null
 	}, {
 		"Id": 12190,
-		"RuneName": "领主光环-精通",
+		"RuneName": "로드 코로나-精通",
 		"Runetip": 1034,
 		"SkillTipParm": [15.0]
 	}, {
 		"Id": 21001,
-		"RuneName": "火箭术-专精",
+		"RuneName": "화이어 볼트-专精",
 		"Runetip": 2000,
 		"SkillTipParm": [0.1]
 	}, {
@@ -250,7 +250,7 @@
 		"SkillTipParm": [0.25]
 	}, {
 		"Id": 21004,
-		"RuneName": "火箭术-速读",
+		"RuneName": "화이어 볼트-速读",
 		"Runetip": 2002,
 		"SkillTipParm": [0.2]
 	}, {
@@ -260,12 +260,12 @@
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 21006,
-		"RuneName": "火狩护佑",
+		"RuneName": "사이트护佑",
 		"Runetip": 2004,
 		"SkillTipParm": null
 	}, {
 		"Id": 21007,
-		"RuneName": "火球术-强效",
+		"RuneName": "화이어 볼-强效",
 		"Runetip": 2005,
 		"SkillTipParm": [5.0, 3.0]
 	}, {
@@ -275,12 +275,12 @@
 		"SkillTipParm": [1.0]
 	}, {
 		"Id": 21013,
-		"RuneName": "冰箭术-专精",
+		"RuneName": "콜드 볼트-专精",
 		"Runetip": 2007,
 		"SkillTipParm": [0.1]
 	}, {
 		"Id": 21016,
-		"RuneName": "怒雷强击-专精",
+		"RuneName": "로드 오브 버밀리온-专精",
 		"Runetip": 2008,
 		"SkillTipParm": [5.0]
 	}, {
@@ -290,22 +290,22 @@
 		"SkillTipParm": [1.0, 10.0]
 	}, {
 		"Id": 22006,
-		"RuneName": "高能火箭术",
+		"RuneName": "高能화이어 볼트",
 		"Runetip": 2010,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 22007,
-		"RuneName": "火狩叠加",
+		"RuneName": "사이트叠加",
 		"Runetip": 2011,
 		"SkillTipParm": [3.0]
 	}, {
 		"Id": 22008,
-		"RuneName": "点燃-强效",
+		"RuneName": "이그니션-强效",
 		"Runetip": 2012,
 		"SkillTipParm": [3.0]
 	}, {
 		"Id": 22012,
-		"RuneName": "崩裂术-专精",
+		"RuneName": "헤븐즈 드라이브-专精",
 		"Runetip": 2013,
 		"SkillTipParm": [5.0]
 	}, {
@@ -340,7 +340,7 @@
 		"SkillTipParm": [15.0]
 	}, {
 		"Id": 22028,
-		"RuneName": "暴风雪-专精",
+		"RuneName": "스톰 가스트-专精",
 		"Runetip": 2020,
 		"SkillTipParm": [4.0]
 	}, {
@@ -425,7 +425,7 @@
 		"SkillTipParm": [1.0, 10.0]
 	}, {
 		"Id": 22100,
-		"RuneName": "冰箭术-速读",
+		"RuneName": "콜드 볼트-速读",
 		"Runetip": 2033,
 		"SkillTipParm": [0.2]
 	}, {
@@ -435,7 +435,7 @@
 		"SkillTipParm": null
 	}, {
 		"Id": 22120,
-		"RuneName": "高能冰箭术",
+		"RuneName": "高能콜드 볼트",
 		"Runetip": 2032,
 		"SkillTipParm": [10.0]
 	}, {
@@ -485,7 +485,7 @@
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 22170,
-		"RuneName": "普攻点燃",
+		"RuneName": "普攻이그니션",
 		"Runetip": 2022,
 		"SkillTipParm": null
 	}, {
@@ -1090,7 +1090,7 @@
 		"SkillTipParm": [2.0]
 	}, {
 		"Id": 52035,
-		"RuneName": "光猎-延时",
+		"RuneName": "루아흐-延时",
 		"Runetip": 5024,
 		"SkillTipParm": [10.0]
 	}, {
@@ -1215,12 +1215,12 @@
 		"SkillTipParm": [4.0, 10.0]
 	}, {
 		"Id": 61006,
-		"RuneName": "手推车攻击",
+		"RuneName": "카트 레볼루션",
 		"Runetip": 6001,
 		"SkillTipParm": [0.5, 5.0]
 	}, {
 		"Id": 61007,
-		"RuneName": "手推车攻击",
+		"RuneName": "카트 레볼루션",
 		"Runetip": 6001,
 		"SkillTipParm": [1.0, 5.0]
 	}, {
@@ -1685,27 +1685,27 @@
 		"SkillTipParm": [3.0, 50.0]
 	}, {
 		"Id": 120030,
-		"RuneName": "金刚不坏-警惕",
+		"RuneName": "금강불괴-警惕",
 		"Runetip": 12003,
 		"SkillTipParm": [3.0]
 	}, {
 		"Id": 120040,
-		"RuneName": "金刚不坏-速读",
+		"RuneName": "금강불괴-速读",
 		"Runetip": 12004,
 		"SkillTipParm": [0.2]
 	}, {
 		"Id": 120050,
-		"RuneName": "金刚不坏-精通",
+		"RuneName": "금강불괴-精通",
 		"Runetip": 12005,
 		"SkillTipParm": [5.0]
 	}, {
 		"Id": 120060,
-		"RuneName": "铁砂掌-强效",
+		"RuneName": "철사장-强效",
 		"Runetip": 12006,
 		"SkillTipParm": [20.0]
 	}, {
 		"Id": 120070,
-		"RuneName": "运气调息-强效",
+		"RuneName": "운기조식-强效",
 		"Runetip": 12007,
 		"SkillTipParm": [10.0]
 	}, {
@@ -1720,32 +1720,32 @@
 		"SkillTipParm": [1.0]
 	}, {
 		"Id": 120100,
-		"RuneName": "阿修罗霸凰拳-强效",
+		"RuneName": "아수라 패황권-强效",
 		"Runetip": 12010,
 		"SkillTipParm": [0.6]
 	}, {
 		"Id": 120110,
-		"RuneName": "六合拳-强效",
+		"RuneName": "육합권-强效",
 		"Runetip": 12011,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 120120,
-		"RuneName": "浸透劲-精通",
+		"RuneName": "침투경-精通",
 		"Runetip": 12012,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 120130,
-		"RuneName": "弹指神通-强效",
+		"RuneName": "탄지신통-强效",
 		"Runetip": 12013,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 120140,
-		"RuneName": "弹指神通-速读",
+		"RuneName": "탄지신통-速读",
 		"Runetip": 12014,
 		"SkillTipParm": [0.25]
 	}, {
 		"Id": 120150,
-		"RuneName": "猛龙夸强-强效",
+		"RuneName": "맹룡과강-强效",
 		"Runetip": 12015,
 		"SkillTipParm": [5.0]
 	}, {
@@ -1775,7 +1775,7 @@
 		"SkillTipParm": [5.0]
 	}, {
 		"Id": 120200,
-		"RuneName": "光猎-延时",
+		"RuneName": "루아흐-延时",
 		"Runetip": 12020,
 		"SkillTipParm": [10.0]
 	}, {
@@ -1785,37 +1785,37 @@
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 120220,
-		"RuneName": "浸透劲-强效",
+		"RuneName": "침투경-强效",
 		"Runetip": 12022,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 120230,
-		"RuneName": "连环全身掌-强效",
+		"RuneName": "연환전신장-强效",
 		"Runetip": 12023,
 		"SkillTipParm": [5.0]
 	}, {
 		"Id": 120240,
-		"RuneName": "气爆散-强效",
+		"RuneName": "발경-强效",
 		"Runetip": 12024,
 		"SkillTipParm": [5.0]
 	}, {
 		"Id": 120250,
-		"RuneName": "气绝崩击-精通",
+		"RuneName": "연주붕격-精通",
 		"Runetip": 12025,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 120260,
-		"RuneName": "伏虎拳-强效",
+		"RuneName": "복호권-强效",
 		"Runetip": 12026,
 		"SkillTipParm": [5.0]
 	}, {
 		"Id": 130010,
-		"RuneName": "手推车攻击-强效",
+		"RuneName": "카트 레볼루션-强效",
 		"Runetip": 13001,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 130020,
-		"RuneName": "气泡虫召唤-强效",
+		"RuneName": "스피어 마인-强效",
 		"Runetip": 13002,
 		"SkillTipParm": [30.0]
 	}, {
@@ -1845,7 +1845,7 @@
 		"SkillTipParm": [0.2]
 	}, {
 		"Id": 130080,
-		"RuneName": "气泡虫寄生-强效",
+		"RuneName": "스피어 패러사이트-强效",
 		"Runetip": 13008,
 		"SkillTipParm": [10.0]
 	}, {
@@ -1905,17 +1905,17 @@
 		"SkillTipParm": [2.0]
 	}, {
 		"Id": 130140,
-		"RuneName": "地狱植物-强效",
+		"RuneName": "헬즈 플랜트-强效",
 		"Runetip": 13014,
 		"SkillTipParm": [5.0]
 	}, {
 		"Id": 130150,
-		"RuneName": "地狱植物-专精",
+		"RuneName": "헬즈 플랜트-专精",
 		"Runetip": 13015,
 		"SkillTipParm": [0.25]
 	}, {
 		"Id": 130160,
-		"RuneName": "强酸攻击-强效",
+		"RuneName": "애시드 테러-强效",
 		"Runetip": 13016,
 		"SkillTipParm": [5.0]
 	}, {
@@ -1945,22 +1945,22 @@
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 130200,
-		"RuneName": "强酸攻击-专精",
+		"RuneName": "애시드 테러-专精",
 		"Runetip": 13020,
 		"SkillTipParm": [0.25]
 	}, {
 		"Id": 130210,
-		"RuneName": "强酸火烟瓶投掷-强效",
+		"RuneName": "애시드 데몬스트레이션-强效",
 		"Runetip": 13021,
 		"SkillTipParm": [8.0]
 	}, {
 		"Id": 130220,
-		"RuneName": "强酸火烟瓶投掷-精通",
+		"RuneName": "애시드 데몬스트레이션-精通",
 		"Runetip": 13022,
 		"SkillTipParm": [10.0]
 	}, {
 		"Id": 130230,
-		"RuneName": "强酸火烟瓶投掷-专精",
+		"RuneName": "애시드 데몬스트레이션-专精",
 		"Runetip": 13023,
 		"SkillTipParm": [0.25]
 	}, {
@@ -1975,7 +1975,7 @@
 		"SkillTipParm": null
 	}, {
 		"Id": 130260,
-		"RuneName": "火烟瓶投掷-强效",
+		"RuneName": "데몬스트레이션-强效",
 		"Runetip": 13026,
 		"SkillTipParm": [10.0]
 	}, {
@@ -1995,22 +1995,22 @@
 		"SkillTipParm": [1.0, 100.0]
 	}, {
 		"Id": 130280,
-		"RuneName": "地狱植物-秘术",
+		"RuneName": "헬즈 플랜트-秘术",
 		"Runetip": 13028,
 		"SkillTipParm": null
 	}, {
 		"Id": 130290,
-		"RuneName": "善变-火箭术",
+		"RuneName": "善变-화이어 볼트",
 		"Runetip": 13029,
 		"SkillTipParm": null
 	}, {
 		"Id": 130300,
-		"RuneName": "善变-冰箭术",
+		"RuneName": "善变-콜드 볼트",
 		"Runetip": 13030,
 		"SkillTipParm": null
 	}, {
 		"Id": 130310,
-		"RuneName": "善变-雷击术",
+		"RuneName": "善变-라이트닝 볼트",
 		"Runetip": 13031,
 		"SkillTipParm": null
 	}

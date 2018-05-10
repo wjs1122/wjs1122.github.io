@@ -428,7 +428,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 30003,
-			"Name": "手推车攻击",
+			"Name": "카트 레볼루션",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -1044,7 +1044,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100000,
-			"Name": "手推车攻击",
+			"Name": "카트 레볼루션",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -1114,7 +1114,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100001,
-			"Name": "手推车攻击",
+			"Name": "카트 레볼루션",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -1149,7 +1149,7 @@
 			"SpecialDescId": 61001
 		}, {
 			"Id": 140000,
-			"Name": "手推车攻击",
+			"Name": "카트 레볼루션",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -4908,7 +4908,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 30000,
-			"Name": "手推车攻击",
+			"Name": "카트 레볼루션",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -11870,7 +11870,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100000,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -11968,7 +11968,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 70000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -12612,7 +12612,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10050000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -12717,14 +12717,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 150000,
-			"Name": "挑衅-范围",
+			"Name": "프로보크-范围",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
 			"SpecialDescId": 12090
 		}, {
 			"Id": 300000,
-			"Name": "霸体-无限",
+			"Name": "인듀어-无限",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -12787,7 +12787,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 210004,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -12906,7 +12906,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300009,
-			"Name": "霸体-无限",
+			"Name": "인듀어-无限",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -12941,7 +12941,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10370000,
-			"Name": "骑乘训练-多效Ⅱ",
+			"Name": "탑승훈련-多效Ⅱ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -13074,7 +13074,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 310000,
-			"Name": "挑衅-范围",
+			"Name": "프로보크-范围",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -13291,7 +13291,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10140000,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -13382,7 +13382,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 600003,
-			"Name": "骑乘训练-多效Ⅱ",
+			"Name": "탑승훈련-多效Ⅱ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -13529,7 +13529,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 220002,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -14117,7 +14117,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 80005,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -14698,7 +14698,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230002,
-			"Name": "骑乘训练-多效Ⅰ",
+			"Name": "탑승훈련-多效Ⅰ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -14859,7 +14859,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 490004,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -14880,7 +14880,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 340005,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -14922,7 +14922,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230006,
-			"Name": "骑乘训练-多效Ⅰ",
+			"Name": "탑승훈련-多效Ⅰ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -14999,7 +14999,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 190000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -15160,7 +15160,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 570003,
-			"Name": "骑乘训练-多效Ⅱ",
+			"Name": "탑승훈련-多效Ⅱ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -15251,7 +15251,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10160000,
-			"Name": "霸体-无限",
+			"Name": "인듀어-无限",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -15440,7 +15440,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 350004,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -15482,7 +15482,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230016,
-			"Name": "骑乘训练-多效Ⅰ",
+			"Name": "탑승훈련-多效Ⅰ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -15734,7 +15734,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 30000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -15909,7 +15909,7 @@
 			"SpecialDescId": 70061
 		}, {
 			"Id": 360000,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -16007,7 +16007,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 90001,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -16168,7 +16168,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 20002,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -16247,7 +16247,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180006,
-			"Name": "善变-火箭术",
+			"Name": "善变-화이어 볼트",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -16268,7 +16268,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180007,
-			"Name": "善变-冰箭术",
+			"Name": "善变-콜드 볼트",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -16289,7 +16289,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180008,
-			"Name": "善变-雷击术",
+			"Name": "善变-라이트닝 볼트",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -16352,7 +16352,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 370000,
-			"Name": "强酸攻击-强效",
+			"Name": "애시드 테러-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -16667,7 +16667,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 30003,
-			"Name": "手推车攻击-强效",
+			"Name": "카트 레볼루션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -16842,7 +16842,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 510000,
-			"Name": "火烟瓶投掷-强效",
+			"Name": "데몬스트레이션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -17283,7 +17283,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100000,
-			"Name": "手推车攻击-强效",
+			"Name": "카트 레볼루션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -17388,7 +17388,7 @@
 			"SpecialDescId": 130040
 		}, {
 			"Id": 140000,
-			"Name": "手推车攻击-强效",
+			"Name": "카트 레볼루션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -18137,7 +18137,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300000,
-			"Name": "地狱植物-强效",
+			"Name": "헬즈 플랜트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -18214,7 +18214,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300003,
-			"Name": "地狱植物-专精",
+			"Name": "헬즈 플랜트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -18319,7 +18319,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300009,
-			"Name": "地狱植物-强效",
+			"Name": "헬즈 플랜트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -18333,7 +18333,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300010,
-			"Name": "地狱植物-专精",
+			"Name": "헬즈 플랜트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -18865,7 +18865,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 440001,
-			"Name": "强酸攻击-强效",
+			"Name": "애시드 테러-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -19299,7 +19299,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 460015,
-			"Name": "强酸火烟瓶投掷-精通",
+			"Name": "애시드 데몬스트레이션-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -19453,7 +19453,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 470009,
-			"Name": "强酸火烟瓶投掷-专精",
+			"Name": "애시드 데몬스트레이션-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -19488,7 +19488,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 530009,
-			"Name": "火烟瓶投掷-强效",
+			"Name": "데몬스트레이션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -19558,7 +19558,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 450005,
-			"Name": "强酸攻击-专精",
+			"Name": "애시드 테러-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -20006,7 +20006,7 @@
 			"SpecialDescId": 130120
 		}, {
 			"Id": 460000,
-			"Name": "强酸火烟瓶投掷-强效",
+			"Name": "애시드 데몬스트레이션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -20230,7 +20230,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 460008,
-			"Name": "强酸火烟瓶投掷-强效",
+			"Name": "애시드 데몬스트레이션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -20258,7 +20258,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170002,
-			"Name": "气泡虫寄生-强效",
+			"Name": "스피어 패러사이트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -20531,14 +20531,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 570000,
-			"Name": "火烟瓶投掷-强效",
+			"Name": "데몬스트레이션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 130260
 		}, {
 			"Id": 170007,
-			"Name": "气泡虫寄生-强效",
+			"Name": "스피어 패러사이트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -20587,7 +20587,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 470000,
-			"Name": "强酸火烟瓶投掷-强效",
+			"Name": "애시드 데몬스트레이션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -20664,7 +20664,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10160000,
-			"Name": "地狱植物-秘术",
+			"Name": "헬즈 플랜트-秘术",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -20692,14 +20692,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 460013,
-			"Name": "强酸火烟瓶投掷-精通",
+			"Name": "애시드 데몬스트레이션-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
 			"SpecialDescId": 130220
 		}, {
 			"Id": 470004,
-			"Name": "强酸火烟瓶投掷-专精",
+			"Name": "애시드 데몬스트레이션-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -20755,7 +20755,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 450004,
-			"Name": "强酸攻击-专精",
+			"Name": "애시드 테러-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -20965,7 +20965,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 410003,
-			"Name": "强酸攻击-强效",
+			"Name": "애시드 테러-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -21063,7 +21063,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 470017,
-			"Name": "强酸火烟瓶投掷-强效",
+			"Name": "애시드 데몬스트레이션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -21154,7 +21154,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 60000,
-			"Name": "气泡虫召唤-强效",
+			"Name": "스피어 마인-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -21224,7 +21224,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 240001,
-			"Name": "地狱植物-强效",
+			"Name": "헬즈 플랜트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -21553,7 +21553,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 130003,
-			"Name": "气泡虫召唤-强效",
+			"Name": "스피어 마인-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -22626,7 +22626,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 260000,
-			"Name": "崩裂术-专精",
+			"Name": "헤븐즈 드라이브-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -22696,7 +22696,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100000,
-			"Name": "火狩护佑",
+			"Name": "사이트护佑",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -22766,7 +22766,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100001,
-			"Name": "火球术-强效",
+			"Name": "화이어 볼-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -23109,7 +23109,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 50003,
-			"Name": "火球术-强效",
+			"Name": "화이어 볼-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -23158,7 +23158,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 410005,
-			"Name": "冰箭术-专精",
+			"Name": "콜드 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -23277,7 +23277,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 130009,
-			"Name": "火球术-强效",
+			"Name": "화이어 볼-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -23508,7 +23508,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 420002,
-			"Name": "冰箭术-专精",
+			"Name": "콜드 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -23543,7 +23543,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 150000,
-			"Name": "火箭术-专精",
+			"Name": "화이어 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -23767,7 +23767,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10370000,
-			"Name": "火箭术-专精",
+			"Name": "화이어 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -23907,7 +23907,7 @@
 			"SpecialDescId": 22017
 		}, {
 			"Id": 430006,
-			"Name": "暴风雪-专精",
+			"Name": "스톰 가스트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -24544,14 +24544,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 580018,
-			"Name": "怒雷强击-专精",
+			"Name": "로드 오브 버밀리온-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 21016
 		}, {
 			"Id": 10060000,
-			"Name": "火箭术-专精",
+			"Name": "화이어 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -24775,7 +24775,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 530000,
-			"Name": "点燃-强效",
+			"Name": "이그니션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -24971,7 +24971,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 450005,
-			"Name": "冰箭术-速读",
+			"Name": "콜드 볼트-速读",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -25076,7 +25076,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 560004,
-			"Name": "怒雷强击-专精",
+			"Name": "로드 오브 버밀리온-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -25202,7 +25202,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 540001,
-			"Name": "怒雷强击-专精",
+			"Name": "로드 오브 버밀리온-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -25384,14 +25384,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 550002,
-			"Name": "火箭术-专精",
+			"Name": "화이어 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
 			"SpecialDescId": 21001
 		}, {
 			"Id": 540004,
-			"Name": "怒雷强击-专精",
+			"Name": "로드 오브 버밀리온-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -25524,7 +25524,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230002,
-			"Name": "崩裂术-专精",
+			"Name": "헤븐즈 드라이브-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -25608,7 +25608,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 520001,
-			"Name": "火箭术-速读",
+			"Name": "화이어 볼트-速读",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -25671,7 +25671,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170002,
-			"Name": "高能火箭术",
+			"Name": "高能화이어 볼트",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -25748,7 +25748,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230006,
-			"Name": "崩裂术-专精",
+			"Name": "헤븐즈 드라이브-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -25790,7 +25790,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480013,
-			"Name": "暴风雪-专精",
+			"Name": "스톰 가스트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -25951,7 +25951,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170007,
-			"Name": "火狩叠加",
+			"Name": "사이트叠加",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -25986,7 +25986,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 570003,
-			"Name": "怒雷强击-专精",
+			"Name": "로드 오브 버밀리온-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -26021,7 +26021,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10250000,
-			"Name": "暴风雪-专精",
+			"Name": "스톰 가스트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -26168,7 +26168,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 450004,
-			"Name": "冰箭术-专精",
+			"Name": "콜드 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -26217,7 +26217,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 450000,
-			"Name": "高能冰箭术",
+			"Name": "高能콜드 볼트",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -26259,7 +26259,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 440007,
-			"Name": "暴风雪-专精",
+			"Name": "스톰 가스트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -26308,7 +26308,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230016,
-			"Name": "崩裂术-专精",
+			"Name": "헤븐즈 드라이브-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -26343,7 +26343,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170014,
-			"Name": "点燃-强效",
+			"Name": "이그니션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -26357,7 +26357,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 420009,
-			"Name": "冰箭术-专精",
+			"Name": "콜드 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -26399,7 +26399,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170015,
-			"Name": "点燃-强效",
+			"Name": "이그니션-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -26560,7 +26560,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 30000,
-			"Name": "火箭术-速读",
+			"Name": "화이어 볼트-速读",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -26672,7 +26672,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480003,
-			"Name": "暴风雪-专精",
+			"Name": "스톰 가스트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -26735,7 +26735,7 @@
 			"SpecialDescId": 22040
 		}, {
 			"Id": 360000,
-			"Name": "冰箭术-专精",
+			"Name": "콜드 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -26791,7 +26791,7 @@
 			"SpecialDescId": 22044
 		}, {
 			"Id": 60001,
-			"Name": "火球术-强效",
+			"Name": "화이어 볼-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -26833,7 +26833,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 90001,
-			"Name": "火箭术-专精",
+			"Name": "화이어 볼트-专精",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -27015,14 +27015,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 60002,
-			"Name": "火球术-强效",
+			"Name": "화이어 볼-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 21007
 		}, {
 			"Id": 120004,
-			"Name": "普攻点燃",
+			"Name": "普攻이그니션",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -27036,7 +27036,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480016,
-			"Name": "冰箭术-速读",
+			"Name": "콜드 볼트-速读",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -27185,7 +27185,7 @@
 			"SpecialDescId": 42025
 		}, {
 			"Id": 490006,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -27402,7 +27402,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 90009,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -28368,7 +28368,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 560010,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -28935,7 +28935,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 70010,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -29285,7 +29285,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 430003,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -29481,7 +29481,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 310009,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -29950,7 +29950,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 320005,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -30020,7 +30020,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 80002,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -30405,7 +30405,7 @@
 			"SpecialDescId": 42015
 		}, {
 			"Id": 560011,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -30573,7 +30573,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 550010,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -31259,7 +31259,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 190009,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -31329,7 +31329,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230009,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -31784,7 +31784,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 420005,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -32463,7 +32463,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10003,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -32486,7 +32486,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180006,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -32528,7 +32528,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180008,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -32591,7 +32591,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 370000,
-			"Name": "铁砂掌-强效",
+			"Name": "철사장-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -32955,7 +32955,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 250004,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -33165,7 +33165,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 390000,
-			"Name": "连环全身掌-强效",
+			"Name": "연환전신장-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -33256,7 +33256,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 270000,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -33312,7 +33312,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 390008,
-			"Name": "连环全身掌-强效",
+			"Name": "연환전신장-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -33606,7 +33606,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 400004,
-			"Name": "连环全身掌-强效",
+			"Name": "연환전신장-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -33634,7 +33634,7 @@
 			"SpecialDescId": 120010
 		}, {
 			"Id": 280000,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -33984,7 +33984,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 410005,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -33998,14 +33998,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 290000,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 120100
 		}, {
 			"Id": 580000,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -34103,7 +34103,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 130009,
-			"Name": "金刚不坏-速读",
+			"Name": "금강불괴-速读",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -34124,7 +34124,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 580009,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -34376,7 +34376,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300000,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -34453,7 +34453,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300003,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -34558,7 +34558,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300009,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -34572,7 +34572,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300010,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -34733,7 +34733,7 @@
 			"SpecialDescId": 120090
 		}, {
 			"Id": 430006,
-			"Name": "浸透劲-精通",
+			"Name": "침투경-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -34803,7 +34803,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10330000,
-			"Name": "弹指神通-强效",
+			"Name": "탄지신통-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -34943,7 +34943,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10140000,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -35314,7 +35314,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 590004,
-			"Name": "光猎-延时",
+			"Name": "루아흐-延时",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -35538,7 +35538,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 460015,
-			"Name": "气绝崩击-精通",
+			"Name": "연주붕격-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -35601,7 +35601,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 530000,
-			"Name": "弹指神通-速读",
+			"Name": "탄지신통-速读",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -35692,7 +35692,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 470009,
-			"Name": "伏虎拳-强效",
+			"Name": "복호권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -35727,7 +35727,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 530009,
-			"Name": "弹指神通-强效",
+			"Name": "탄지신통-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -35811,7 +35811,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 330000,
-			"Name": "铁砂掌-强效",
+			"Name": "철사장-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -36238,14 +36238,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230000,
-			"Name": "铁砂掌-强效",
+			"Name": "철사장-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
 			"SpecialDescId": 120060
 		}, {
 			"Id": 460000,
-			"Name": "气爆散-多效",
+			"Name": "발경-多效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -36350,7 +36350,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230002,
-			"Name": "运气调息-强效",
+			"Name": "운기조식-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -36469,7 +36469,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 460008,
-			"Name": "气爆散-多效",
+			"Name": "발경-多效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -36497,7 +36497,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170002,
-			"Name": "金刚不坏-警惕",
+			"Name": "금강불괴-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -36574,7 +36574,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230006,
-			"Name": "运气调息-强效",
+			"Name": "운기조식-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -36616,7 +36616,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480013,
-			"Name": "浸透劲-强效",
+			"Name": "침투경-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -36728,7 +36728,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 330010,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -36770,14 +36770,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 570000,
-			"Name": "弹指神通-强效",
+			"Name": "탄지신통-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 120130
 		}, {
 			"Id": 170007,
-			"Name": "金刚不坏-警惕",
+			"Name": "금강불괴-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -36812,7 +36812,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 570003,
-			"Name": "弹指神通-速读",
+			"Name": "탄지신통-速读",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -36903,7 +36903,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10160000,
-			"Name": "六合拳-高能",
+			"Name": "육합권-高能",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -36931,14 +36931,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 460013,
-			"Name": "气绝崩击-精通",
+			"Name": "연주붕격-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
 			"SpecialDescId": 120250
 		}, {
 			"Id": 470004,
-			"Name": "伏虎拳-强效",
+			"Name": "복호권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37043,7 +37043,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 450000,
-			"Name": "气爆散-多效",
+			"Name": "발경-多效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37085,7 +37085,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 440007,
-			"Name": "浸透劲-精通",
+			"Name": "침투경-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -37134,7 +37134,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230016,
-			"Name": "运气调息-强效",
+			"Name": "운기조식-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -37169,7 +37169,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170014,
-			"Name": "金刚不坏-精通",
+			"Name": "금강불괴-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -37204,7 +37204,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 410003,
-			"Name": "六合拳-高能",
+			"Name": "육합권-高能",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37225,7 +37225,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170015,
-			"Name": "金刚不坏-精通",
+			"Name": "금강불괴-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -37274,7 +37274,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 470016,
-			"Name": "伏虎拳-强效",
+			"Name": "복호권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37351,7 +37351,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 590000,
-			"Name": "阿修罗霸凰拳-强效",
+			"Name": "아수라 패황권-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37463,7 +37463,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 240001,
-			"Name": "六合拳-高能",
+			"Name": "육합권-高能",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37498,7 +37498,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480003,
-			"Name": "浸透劲-强效",
+			"Name": "침투경-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37554,7 +37554,7 @@
 			"SpecialDescId": 51002
 		}, {
 			"Id": 180000,
-			"Name": "猛龙夸强-强效",
+			"Name": "맹룡과강-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37610,7 +37610,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180001,
-			"Name": "猛龙夸强-强效",
+			"Name": "맹룡과강-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37792,7 +37792,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 130003,
-			"Name": "金刚不坏-警惕",
+			"Name": "금강불괴-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -37848,7 +37848,7 @@
 			"SpecialDescId": 51001
 		}, {
 			"Id": 120004,
-			"Name": "猛龙夸强-强效",
+			"Name": "맹룡과강-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37862,7 +37862,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480016,
-			"Name": "浸透劲-强效",
+			"Name": "침투경-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37899,7 +37899,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180006,
-			"Name": "集中攻击-警惕",
+			"Name": "컨센트레이션-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37920,7 +37920,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180007,
-			"Name": "集中攻击-警惕",
+			"Name": "컨센트레이션-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -37941,7 +37941,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 180008,
-			"Name": "集中攻击-警惕",
+			"Name": "컨센트레이션-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -38249,7 +38249,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 500000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -38319,7 +38319,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 30003,
-			"Name": "剑术修炼-强效",
+			"Name": "검술수련-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -38368,7 +38368,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 250004,
-			"Name": "巧打-强效",
+			"Name": "조인트 비트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -38578,7 +38578,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 390000,
-			"Name": "反击-反伤盾",
+			"Name": "오토카운터-反伤盾",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -38669,7 +38669,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 270000,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -38725,7 +38725,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 390008,
-			"Name": "反击-反伤盾",
+			"Name": "오토카운터-反伤盾",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -38865,7 +38865,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 260000,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -38879,7 +38879,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 270011,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -39005,21 +39005,21 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100001,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 11003
 		}, {
 			"Id": 200002,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
 			"SpecialDescId": 12002
 		}, {
 			"Id": 400004,
-			"Name": "反击-反伤盾",
+			"Name": "오토카운터-反伤盾",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39033,7 +39033,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 70000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39047,7 +39047,7 @@
 			"SpecialDescId": 11010
 		}, {
 			"Id": 280000,
-			"Name": "巧打-强效",
+			"Name": "조인트 비트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39348,7 +39348,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 50003,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39411,7 +39411,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 290000,
-			"Name": "巧打-强效",
+			"Name": "조인트 비트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39516,7 +39516,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 130009,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -39677,7 +39677,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10050000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39747,7 +39747,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 420002,
-			"Name": "骑乘攻击-多效",
+			"Name": "브랜디쉬 스피어-多效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39782,14 +39782,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 150000,
-			"Name": "挑衅-范围",
+			"Name": "프로보크-范围",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 12090
 		}, {
 			"Id": 300000,
-			"Name": "霸体-无限",
+			"Name": "인듀어-无限",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39852,7 +39852,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 210004,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39866,7 +39866,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300003,
-			"Name": "领主光环-精通",
+			"Name": "로드 코로나-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39971,7 +39971,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300009,
-			"Name": "霸体-无限",
+			"Name": "인듀어-无限",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -39985,7 +39985,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 300010,
-			"Name": "领主光环-精通",
+			"Name": "로드 코로나-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40006,7 +40006,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10370000,
-			"Name": "骑乘训练-多效Ⅱ",
+			"Name": "탑승훈련-多效Ⅱ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40139,7 +40139,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 310000,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -40202,7 +40202,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10350000,
-			"Name": "狂怒之枪-警惕",
+			"Name": "버서크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40356,7 +40356,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10140000,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40447,7 +40447,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 600003,
-			"Name": "骑乘训练-多效Ⅱ",
+			"Name": "탑승훈련-多效Ⅱ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40468,7 +40468,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 590017,
-			"Name": "狂怒之枪-警惕",
+			"Name": "버서크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40482,7 +40482,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 220000,
-			"Name": "剑术修炼-强效",
+			"Name": "검술수련-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40594,7 +40594,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 220002,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40636,7 +40636,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 320000,
-			"Name": "钢铁之心-精通",
+			"Name": "강철의 심장-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40727,7 +40727,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 590004,
-			"Name": "狂怒之枪-警惕",
+			"Name": "버서크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40797,7 +40797,7 @@
 			"SpecialDescId": 11022
 		}, {
 			"Id": 160003,
-			"Name": "集中攻击-警惕",
+			"Name": "컨센트레이션-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40888,7 +40888,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 320009,
-			"Name": "钢铁之心-精通",
+			"Name": "강철의 심장-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -40951,7 +40951,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 460015,
-			"Name": "骑乘攻击-多效",
+			"Name": "브랜디쉬 스피어-多效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41014,7 +41014,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 530000,
-			"Name": "巧打-强效",
+			"Name": "조인트 비트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41077,7 +41077,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 160008,
-			"Name": "集中攻击-警惕",
+			"Name": "컨센트레이션-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41182,7 +41182,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 80005,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41210,7 +41210,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 450005,
-			"Name": "骑乘攻击-多效",
+			"Name": "브랜디쉬 스피어-多效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41224,7 +41224,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 330000,
-			"Name": "灵气剑-强效",
+			"Name": "오라블레이드-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41280,7 +41280,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 330002,
-			"Name": "伤害增压-精通",
+			"Name": "크러쉬 블레이드-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41357,7 +41357,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 160013,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41441,7 +41441,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 540001,
-			"Name": "巧打-强效",
+			"Name": "조인트 비트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41560,7 +41560,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 330012,
-			"Name": "伤害增压-精通",
+			"Name": "크러쉬 블레이드-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41630,7 +41630,7 @@
 			"SpecialDescId": 11022
 		}, {
 			"Id": 540004,
-			"Name": "巧打-强效",
+			"Name": "조인트 비트-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41651,7 +41651,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230000,
-			"Name": "灵气剑-强效",
+			"Name": "오라블레이드-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41763,7 +41763,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230002,
-			"Name": "骑乘训练-多效Ⅰ",
+			"Name": "탑승훈련-多效Ⅰ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41924,7 +41924,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 490004,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41945,7 +41945,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 340005,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -41987,7 +41987,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230006,
-			"Name": "骑乘训练-多效Ⅰ",
+			"Name": "탑승훈련-多效Ⅰ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42029,7 +42029,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480013,
-			"Name": "狂怒之枪-警惕",
+			"Name": "버서크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42064,7 +42064,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 190000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42141,7 +42141,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 330010,
-			"Name": "灵气剑-强效",
+			"Name": "오라블레이드-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42225,7 +42225,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 570003,
-			"Name": "骑乘训练-多效Ⅱ",
+			"Name": "탑승훈련-多效Ⅱ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42260,7 +42260,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10250000,
-			"Name": "连刺攻击-射程",
+			"Name": "피어스-射程",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42316,7 +42316,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10160000,
-			"Name": "霸体-无限",
+			"Name": "인듀어-无限",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42344,14 +42344,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 460013,
-			"Name": "骑乘攻击-多效",
+			"Name": "브랜디쉬 스피어-多效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 11021
 		}, {
 			"Id": 470004,
-			"Name": "狂怒之枪-冷却",
+			"Name": "버서크-冷却",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42407,7 +42407,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 450004,
-			"Name": "骑乘攻击-多效",
+			"Name": "브랜디쉬 스피어-多效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42498,14 +42498,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 440007,
-			"Name": "连刺攻击-射程",
+			"Name": "피어스-射程",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 12032
 		}, {
 			"Id": 350004,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42547,7 +42547,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230016,
-			"Name": "骑乘训练-多效Ⅰ",
+			"Name": "탑승훈련-多效Ⅰ",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42582,7 +42582,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170014,
-			"Name": "剑速增加-精通",
+			"Name": "소드퀴큰-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42638,14 +42638,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170015,
-			"Name": "剑速增加-精通",
+			"Name": "소드퀴큰-精通",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 12009
 		}, {
 			"Id": 400006,
-			"Name": "挑衅-范围",
+			"Name": "프로보크-范围",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42799,7 +42799,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 30000,
-			"Name": "狂击-强效",
+			"Name": "배쉬-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42876,7 +42876,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 240001,
-			"Name": "反击-远程物理",
+			"Name": "오토카운터-远程物理",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42911,7 +42911,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480003,
-			"Name": "狂怒之枪-冷却",
+			"Name": "버서크-冷却",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -42960,21 +42960,21 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 90000,
-			"Name": "剑术修炼-强效",
+			"Name": "검술수련-强效",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 11002
 		}, {
 			"Id": 180000,
-			"Name": "伤害增压-致残",
+			"Name": "크러쉬 블레이드-致残",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
 			"SpecialDescId": 12060
 		}, {
 			"Id": 360000,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -43030,7 +43030,7 @@
 			"SpecialDescId": 12070
 		}, {
 			"Id": 60001,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
@@ -43072,7 +43072,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 90001,
-			"Name": "挑衅-警惕",
+			"Name": "프로보크-警惕",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -43233,7 +43233,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 20002,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -43254,14 +43254,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 60002,
-			"Name": "高等剑术修炼",
+			"Name": "상위 검술수련",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 5,
 			"SpecialDescId": 12002
 		}, {
 			"Id": 120004,
-			"Name": "反击-魔法",
+			"Name": "오토카운터-魔法",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -43275,7 +43275,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 480016,
-			"Name": "狂怒之枪-冷却",
+			"Name": "버서크-冷却",
 			"Key": null,
 			"Value": 0.0,
 			"Type": 6,
@@ -43347,7 +43347,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 90004,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -43802,7 +43802,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 500009,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -44943,7 +44943,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 410010,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -45076,7 +45076,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 70008,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -45104,7 +45104,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 60016,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -45216,7 +45216,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100012,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -45643,14 +45643,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10320000,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
 			"SpecialDescId": 0
 		}, {
 			"Id": 10310000,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -46021,7 +46021,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10008,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -46273,7 +46273,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 320008,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -46336,7 +46336,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 110004,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -46917,7 +46917,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10009,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -47078,7 +47078,7 @@
 			"SpecialDescId": 32100
 		}, {
 			"Id": 550005,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -47253,7 +47253,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 520002,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -47435,7 +47435,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170004,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -47645,7 +47645,7 @@
 			"SpecialDescId": 32031
 		}, {
 			"Id": 440004,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -48072,7 +48072,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230018,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -48760,7 +48760,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 90004,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -49215,7 +49215,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 500009,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -50356,7 +50356,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 410010,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -50489,7 +50489,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 70008,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -50517,7 +50517,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 60016,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -50629,7 +50629,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 100012,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -51056,14 +51056,14 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10320000,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
 			"SpecialDescId": 0
 		}, {
 			"Id": 10310000,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -51434,7 +51434,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10008,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -51686,7 +51686,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 320008,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -51749,7 +51749,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 110004,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -52330,7 +52330,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 10009,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -52491,7 +52491,7 @@
 			"SpecialDescId": 90130
 		}, {
 			"Id": 550005,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.0,
 			"Type": 3,
@@ -52666,7 +52666,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 520002,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -52848,7 +52848,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 170004,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -53058,7 +53058,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 440004,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
@@ -53485,7 +53485,7 @@
 			"SpecialDescId": 0
 		}, {
 			"Id": 230018,
-			"Name": "闪避",
+			"Name": "회피",
 			"Key": "Flee",
 			"Value": 1.5,
 			"Type": 3,
